@@ -1,6 +1,6 @@
 package net.botwithus;
 
-import net.botwithus.api.game.hud.inventories.Backpack;
+import net.botwithus.rs3.game.inventories.Backpack;
 import net.botwithus.internal.scripts.ScriptDefinition;
 import net.botwithus.rs3.game.Client;
 import net.botwithus.rs3.game.hud.interfaces.Interfaces;
