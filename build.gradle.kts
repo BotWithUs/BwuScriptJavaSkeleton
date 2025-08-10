@@ -11,7 +11,7 @@ repositories {
     mavenLocal()
     mavenCentral()
     maven {
-        setUrl("https://nexus.botwithus.net/repository/maven-snapshots/")
+        setUrl("https://nexus.botwithus.net/repository/maven-releases/")
     }
 }
 
